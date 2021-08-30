@@ -4,28 +4,42 @@ WARNING: this is a work in progress.
 
 Jump to [Covid info](#covid).
 
-This repo tracks information and policies for our
-class: Yale's MGT656 in the Fall of 2020.
+This repo tracks information and policies
+Yale's MGT656 and MGT660 in the Fall of 2021.
 
 ## Overview
 
 | Key                     | Value                                                                     |
 | ----------------------- | ------------------------------------------------------------------------- |
-| Course number           | MGT656                                                                    |
+| Course number           | MGT656/660                                                                    |
 | Units                   | 4 units in Yale College and equivalent elsewhere                          |
 | Enrollment              | Open to all students from all schools at Yale                             |
-| MGT656 Meeting Location | T Th 8:30 AM-9:50 AM EST; Evans Hall Room 4420                            |
-| MGT656 Zoom link        | See Canvas for now. Link is in there.                                     |
+| MGT660 Meeting Location | T Th 1 PM-2:20 PM EST; Evans Hall Room 4230                            |
+| MGT660 Meeting Location | T Th 2:40 PM-4:00 PM EST; Evans Hall Room 4400                            |
+| MGT656/660 Zoom link        | See Canvas for now. Link is in there.                                     |
 | MGT656 website          | http://656.mba (offline sometimes until semester begins)                  |
+| MGT660 website          | http://660.mba (offline sometimes until semester begins)                  |
 
 
-Students in this course will learn how to manage software development teams through the process of building a basic web application. We will discuss “[agile](https://en.wikipedia.org/wiki/Agile_software_development)”, [continuous delivery](https://en.wikipedia.org/wiki/Continuous_delivery), “[devops](https://en.wikipedia.org/wiki/DevOps)”, and related management practices. Along the way, students will acquire elementary software development skills for creating consumer web applications including both front-end development (typically
-[HTML5](http://en.wikipedia.org/wiki/HTML5),
+Students in this course will learn how to manage software development teams
+through the process of building a basic web application. We will discuss
+“[agile](https://en.wikipedia.org/wiki/Agile_software_development)”,
+[continuous delivery](https://en.wikipedia.org/wiki/Continuous_delivery),
+“[devops](https://en.wikipedia.org/wiki/DevOps)”, and related management
+practices. Along the way, students will acquire elementary software development
+skills for creating consumer web applications including both front-end
+development (typically [HTML5](http://en.wikipedia.org/wiki/HTML5),
 [JavaScript](http://en.wikipedia.org/wiki/JavaScript), &
-[CSS](http://en.wikipedia.org/wiki/Cascading_Style_Sheets))
-and back-end development (typically Google’s Go language). The coursework in MGT656 typically includes homework (mostly programming assignments completed individually), pre-class quizzes, in-class exams, and a group final project. Some experience programming is beneficial, though not necessary for the motivated student. The course is open to all Yale students. In some semesters MGT660 is offered as an advanced version of this course. For more information, see the class website at http://656.mba (offline between semesters).
+[CSS](http://en.wikipedia.org/wiki/Cascading_Style_Sheets)) and back-end
+development (typically Google’s Go language). The coursework in MGT656
+typically includes homework (mostly programming assignments completed
+individually), pre-class quizzes, in-class exams, and a group final project.
+Some experience programming is beneficial, though not necessary for the
+motivated student. The course is open to all Yale students. In some semesters
+MGT660 is offered as an advanced version of this course. For more information,
+see the class website at http://656.mba (offline between semesters).
 
-Usually, 656 has about 65 students. Most spots
+Usually, 656 has about 60 students. Most spots
 are reserved for students enrolled in the Yale School of Management.
 These students may bid on the course using the SOM bidding system.
 The remaining spots in the course are open to the non-SOM students,
@@ -39,30 +53,18 @@ form that is signed by your dean and Kyle Jensen. You can print
 these forms online (somewhere).
 
 
-NOTE: in the Fall of 2020 656 will only be open to SOM students.
-(See below.)
-
-## <a name="covid"></a>Covid dystopia clusterfarce 2020
+## <a name="covid"></a>Covid dystopia clusterfarce 2019/2020/2021
 
 Yale SOM is doing its utmost to ensure you, students, have the best
 possible experience this fall. 
 
 Many details are still "up in the air" as I am writing this document.
 You should refer to official lines of communication (instead of
-this document) for major policies. I believe that we're going to have
-"mixed mode" whereby we will be meeting in a socially distanced fashion
-in class and each time we meet, some us will be able to attend in person
-and others will be required to join electronically. It's not entirely
-clear right now.
-
-What is clear is that SOM is committed, and I am committed, to ensuring
-you learn as much as you can. I'm working on structuring the class so
-that I find acceptable substitutes for the normally numerous activities
-we do in class that cannot be done in a socially distanced fashion.
-
-Please take a moment to review the
-[student accessibility services](https://sas.yale.edu/faculty/online-courses-and-covid-19-response) information about COVID-19. If you have accessibility needs, please let me know
-so that I can meet them!
+this document) for major policies. I believe that we're going to 
+be in person and, though not socially-distanced, we will don masks.
+Classes will be recorded and also live streamed on zoom. But, unless
+there's a big number of people on zoom, I'm not going to be paying
+much attention to zoom. ¯\_(ツ)_/¯
 
 ## Course Philosophy
 
@@ -97,17 +99,15 @@ the course with the following values.
   nodejs, python, and ruby for web application development. Like all
   languages, it is imperfect. It's a reasonable choice for this course.
 
-These are bold goals and challenging to accomplish in the brief time
-allotted to us. Our greatest concern is that the technology component
-will be a barrier for some students. To ensure that this is not the
-case, we will record numerous videos in which the instructors show how
-to complete the homework and class project.
-In these videos, we discuss the
-different ways in which technical goals can be achieved, explicitly
-show how to write the code you need, and how to use the different
-services we are employing. You will get real experience
-with real modern web technologies. That experience should be
-pleasurable, hands-on, and minimally frustrating.
+These are bold goals and challenging to accomplish in the brief time allotted
+to us. Our greatest concern is that the technology component will be a barrier
+for some students. To ensure that this is not the case, we will record numerous
+videos in which the instructors show how to complete the homework and class
+project.  In these videos, we discuss the different ways in which technical
+goals can be achieved, explicitly show how to write the code you need, and how
+to use the different services we are employing. You will get real experience
+with real modern web technologies. That experience should be pleasurable,
+hands-on, and minimally frustrating.
 
 ## Sections
 
@@ -125,11 +125,10 @@ following sections.
 
 ## How to use this document/repo
 
-Because our class info and policies are tracked using
-git, you can see if and how they change over the course
-of the semester. Further, you have the ability to make
-changes yourself---please send me a pull request. Similarly,
-if you feel these documents are lacking, please open an
-"issue" on GitHub for this repo and we'll address the
-issue. Finally, because our git repo is hosted on GitHub, you
-can easily receive push notifications of changes to this repo. (Woot!)
+Because our class info and policies are tracked using git, you can see if and
+how they change over the course of the semester. Further, you have the ability
+to make changes yourself---please send me a pull request. Similarly, if you
+feel these documents are lacking, please open an "issue" on GitHub for this
+repo and we'll address the issue. Finally, because our git repo is hosted on
+GitHub, you can easily receive push notifications of changes to this repo.
+(Woot!)

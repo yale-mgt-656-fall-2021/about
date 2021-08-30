@@ -25,11 +25,6 @@ most important points of the readings. In most meetings, we will also
 have some "activity". This
 may include discussing your semester project or a guest speaker.
 
-In the Fall 2020 semester, I'm going to try to make our activities 
-equally good for those joining in-person and online. Likely that will
-mean those joining in-person will have their laptops open and will
-interact virtually in addition to verbally.
-
 ### Quizzes
 
 Most classes are preceded by a short quiz. The quizzes will be
@@ -71,13 +66,6 @@ participation. Please discuss this option with the instructor.
 
 See the [class project](class-project.md) section.
 
-## Compromises
-
-We would like to share with you some of the rationale for decisions we made
-in designing the class project, with a focus on the compromises.
-
-TODO: fill this in ;P.
-
 ## Textbook
 
 There is no textbook for the course. Readings will on Canvas or otherwise
@@ -98,31 +86,14 @@ more of the following resources.
 - [Yale's Live Safe App](https://your.yale.edu/community/public-safety/campus-safety-services/livesafe-app)
 - [Office for Equal Opportunity Programs](https://equalopportunity.yale.edu/)
 
-### Use of "master" in git repositories
-
-The default branch in git (and on GitHub) is, by convention, called the
-"master" branch. Many developers are trying to use a different default
-branch name because of the etymological ties of the term "master" and the
-abhorrent practice of slavery.
-You can read more about this
-movement [here](https://www.bbc.com/news/technology-53050955),
-[here](https://tools.ietf.org/id/draft-knodel-terminology-00.html#rfc.section.1.1),
-and
-[here](https://english.stackexchange.com/questions/474419/does-the-term-master-in-git-the-vc-system-refer-to-slavery).
-All of the repositories in this class use the default "master" name.
-(There's no concept of a "slave" branch in git, though there was such
-a thing [in one of git's predecessors](https://mail.gnome.org/archives/desktop-devel-list/2019-May/msg00066.html).
-I hope by next year to move everything to a different default name.
-
 ## Special needs
 
-If you have special needs in the course, please contact
-the instructor. For example, you should contact the instructor
-in any of the following circumstances: you wish to miss class
-due to religious observation; you have a disability that
-makes participation in class difficult (e.g. an injury or
-visual impairment that makes a written exam an inaccurate
-assessment of your knowledge); or, you require particular
-seating arrangements in order to better learn. Please check 
-the [Yale student accessibility services](https://sas.yale.edu/faculty/online-courses-and-covid-19-response) for more information, particularly
-covid-related information.
+If you have special needs in the course, please contact the instructor. For
+example, you should contact the instructor in any of the following
+circumstances: you wish to miss class due to religious observation; you have a
+disability that makes participation in class difficult (e.g. an injury or
+visual impairment that makes a written exam an inaccurate assessment of your
+knowledge); or, you require particular seating arrangements in order to better
+learn. Please check the [Yale student accessibility
+services](https://sas.yale.edu/faculty/online-courses-and-covid-19-response)
+for more information, particularly covid-related information.

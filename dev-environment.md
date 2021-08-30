@@ -1,28 +1,26 @@
 ## Development Environments
 
-You will need to create a "development environment"
-to complete the homework assignments and the class
-project in this class. By "development environment"
-I mean a setup on a computer such that you can write
-code, run code, and use version control. We'll be
-writing Go, HTML, CSS, and JavaScript. We'll
-be using Git for version control.
+You will need to create a "development environment" to complete the homework
+assignments and the class project in this class. By "development environment" I
+mean a setup on a computer such that you can write code, run code, and use
+version control. We'll be writing Go, HTML, CSS, and JavaScript. We'll be using
+Git for version control.
 
 Your development environment can either be
 a 
-[AWS Cloud9](https://aws.amazon.com/cloud9/) environment
+[AWS Cloud9](https://aws.amazon.com/Cloud9/) environment
 provided by the instructor (including the cost 😉)
 or
 your
 personal computer.
-There are tradeoffs between these. Setting up your
+There are trade-offs between these. Setting up your
 personal computer is a wonderful learning experience. However, it can be 
 sometimes be challenging. 
 
 Below, you will find documentation on how to get
-started on cloud9, mac, and windows. **Unless you are
-feeling self-assured, we recommend you use cloud9 during the
-Fall 2020 semester because, with social distancing it 
+started on Cloud9, mac, and windows. **Unless you are
+feeling self-assured, we recommend you use Cloud9 during the
+Fall 2021 semester because, with social distancing it 
 will be difficult for us to troubleshoot problems you
 encounter on your local computer.) The options are mutually
 exclusive: if you're using Cloud9, you don't need to follow
@@ -40,12 +38,12 @@ the instructions for Mac or Windows and vice versa.
 
 Here are some helpful videos related to Cloud9:
 
-* [How to log into Cloud9](https://s3.amazonaws.com/files.656.mba/cloud9-intro.mp4).
+* [How to log into Cloud9](https://s3.amazonaws.com/files.656.mba/Cloud9-intro.mp4).
   (That was recorded last year, so some of the offhand remarks might 
   not apply to this semester).
 * How to navigate around on the shell. This shows the basic commands you'll need
   again and again. TODO: add video
-* How to kill programs on cloud9 (and run them, to a lesser extent). TODO: add video.
+* How to kill programs on Cloud9 (and run them, to a lesser extent). TODO: add video.
 
 ### Mac
 

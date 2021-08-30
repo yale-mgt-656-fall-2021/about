@@ -19,7 +19,6 @@ completed.
 
 Teams maybe *four or five persons* in size.
 
-
 ## Project grading
 
 The project will be graded in five separate parts: four sprint reports
@@ -34,7 +33,14 @@ begin the project.
 All students on the same team will receive an identical grade for
 each of the project-related assignments.
 
+## MGT660 differences
+
+If you're in MGT660, you'll have extra requirements. Those will
+likely include a database backend, testing, some kind of continuous
+delivery pipeline, and decent code quality. You know, it will need
+to be a _real_ product 🤣.
+
 ## More to come...
 
-As this git commit, we're still finalizing the project. We'll update
-this documentation soon.
+I will be changing the class project during the semester. What you
+read here is incomplete. ¯\_(ツ)_/¯
