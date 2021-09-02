@@ -47,7 +47,9 @@ including Yale College, who may shop the course. (In the case of
 excess demand, the best performing students shopping will be invited
 to stay in the course. Performance will be measured by a mix of
 attendance and grades on assignments. If demand exceeds capacity,
-I will make an announcement in class providing more details.)
+I will make an announcement in class providing more details. If you're 
+not in SOM, see [this guide](https://portal.som.yale.edu/page/for-non-som-yale-students)
+for adding the course.)
 Officially registering for Yale College students will require a
 form that is signed by your dean and Kyle Jensen. You can print
 these forms online (somewhere).
